@@ -1,7 +1,5 @@
 // BINARY SEARCH
-#include <iostream>
-#include <thread>  //library use for setting random pause or sleep time
-#include <chrono> //  same use for sleep time during execution
+#include <iostream>
 using namespace std;
 
 class NumberGuess
